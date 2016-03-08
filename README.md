@@ -23,3 +23,6 @@ cd /usr/local/directadmin/plugins/toad-dabackup/scripts/
 sh ./install.sh
 ```
 **3.** You can now manage the plugin from your DirectAdmin admin account
+
+## Questions?
+Before contacting us check our [Wiki Page](https://github.com/TOAD-Joey/TOAD-DA-Sync-Backup/wiki) to see most common questions and answers. Need help? Contact us.
