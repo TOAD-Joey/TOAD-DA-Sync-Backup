@@ -10,7 +10,7 @@ Access and use the plugin through a low-cost monthly or annual subscription. You
 - PHP 5.3 higher
 - "allow_url_fopen" enabled in PHP
 - Active license or trial with license token
-- Ioncube
+- Ioncube (Version 5.0 or greater of the ionCube Loader is required)
  
 ## Installing
 **1.** Copy the contents of the downloaded plugin to the DirectAdmin plugin directory:
