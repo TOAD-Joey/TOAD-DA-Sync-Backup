@@ -9,7 +9,7 @@ Access and use the plugin through a low-cost monthly or annual subscription. You
 - DirectAdmin 1.4 higher
 - PHP 5.3 higher
 - "allow_url_fopen" enabled in PHP
-- Active license or trial with license token
+- Active license or trial with license token [Register for a free 7-day trial here](http://toadsoftware.nl/apps/toad-dabackup/web/)
 - Ioncube (Version 5.0 or greater of the ionCube Loader is required)
  
 ## Installing
