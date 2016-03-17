@@ -19,7 +19,7 @@ Access and use the plugin through a low-cost monthly or annual subscription. You
 **1.** Copy the contents of the downloaded plugin to the DirectAdmin plugin directory:
 > /usr/local/directadmin/plugins
 
-**2.** To install the plugin, run the following command from shell:
+**2.** To install the plugin, run the following commands from shell:
 ```
 chown diradmin:diradmin -hR /usr/local/directadmin/plugins/toad-dabackup/
 cd /usr/local/directadmin/plugins/toad-dabackup/scripts/
