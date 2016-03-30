@@ -34,7 +34,7 @@ sh ./install.sh
 - Minor bug fixed
 
 **1.0** - March 17, 2016
-Released first full version of the plugin with a brand new one-page website
+- Released first full version of the plugin with a brand new one-page website
 
 ## Questions?
 Before contacting us check our [Wiki Page](https://github.com/TOAD-Joey/TOAD-DA-Sync-Backup/wiki) to see most common questions and answers. Need help with your installation or settings? 
