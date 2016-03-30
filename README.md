@@ -28,13 +28,19 @@ sh ./install.sh
 **3.** You can now manage the plugin from your DirectAdmin admin account
 
 ## Changelog
-**1.1** - March 30, 2016
+**v1.1** - March 30, 2016
 - Added custom SSH port support
 - New settings admin page
 - Minor bug fixed
 
-**1.0** - March 17, 2016
+**v1.0** - March 17, 2016
 - Released first full version of the plugin with a brand new one-page website
+
+## Coming next releases
+- Multiple account restore with one command
+- User account exclusion (choose which account not to backup)
+- Simple manual backup script
+- CPU Limiter
 
 ## Questions?
 Before contacting us check our [Wiki Page](https://github.com/TOAD-Joey/TOAD-DA-Sync-Backup/wiki) to see most common questions and answers. Need help with your installation or settings? 
