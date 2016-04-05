@@ -9,11 +9,11 @@ Access and use the plugin through a low-cost monthly or annual subscription. You
 [Download the latest stable version here](http://toadsoftware.nl/apps/toad-dabackup/versions/latest.zip)
 
 ## Requirements
-- DirectAdmin 1.4 or higher
-- PHP 5.3 or higher
+- DirectAdmin **1.4 or higher**
+- PHP **5.3 or higher**
 - "allow_url_fopen" enabled in PHP
 - Active license or trial with license token [Register for a free 7-day trial here](http://toadsoftware.nl/apps/toad-dabackup/web/)
-- Ioncube (Version 5.0 or greater of the ionCube Loader is required)
+- Ioncube (Version **4.0** or greater of the ionCube Loader is required)
  
 ## Installing
 **1.** Copy the contents of the downloaded plugin to the DirectAdmin plugin directory:
@@ -28,6 +28,12 @@ sh ./install.sh
 **3.** You can now manage the plugin from your DirectAdmin admin account
 
 ## Changelog
+**v1.2** - April 4, 2016
+- Lowered requirements for ionCube loader
+- Version 4.0 or greater of the ionCube Loader is required (was version 5.0)
+- Updated manual backup
+- Minor bug fixes
+
 **v1.1** - March 30, 2016
 - Added custom SSH port support
 - New settings admin page
