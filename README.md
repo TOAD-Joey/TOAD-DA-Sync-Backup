@@ -28,6 +28,12 @@ sh ./install.sh
 **3.** You can now manage the plugin from your DirectAdmin admin account
 
 ## Changelog
+**v1.3** - May 7, 2016
+- Changed the manual backup script, easier to use
+- Optimized the user configuration backups to be transfered after rSync is done
+- Optimized log descriptions
+- Minor bug fixes
+- 
 **v1.2** - April 4, 2016
 - Lowered requirements for ionCube loader
 - Version 4.0 or greater of the ionCube Loader is required (was version 5.0)
