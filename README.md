@@ -33,7 +33,7 @@ sh ./install.sh
 - Optimized the user configuration backups to be transfered after rSync is done
 - Optimized log descriptions
 - Minor bug fixes
-- 
+
 **v1.2** - April 4, 2016
 - Lowered requirements for ionCube loader
 - Version 4.0 or greater of the ionCube Loader is required (was version 5.0)
