@@ -13,7 +13,8 @@ Access and use the plugin through a low-cost monthly or annual subscription. You
 - PHP **5.3 or higher**
 - "allow_url_fopen" enabled in PHP
 - Active license or trial with license token [Register for a free 7-day trial here](http://www.directadminbackup.com)
-- Ioncube (Version **4.0** or greater of the ionCube Loader is required)
+- Ioncube (Version **10.2.0** or greater of the ionCube Loader is required)
+- Check if rsync is installed; update to **3.1.0 at least**
  
 ## Installing
 **1.** Copy the contents of the downloaded plugin to the DirectAdmin plugin directory:
@@ -26,8 +27,13 @@ cd /usr/local/directadmin/plugins/toad-dabackup/scripts/
 sh ./install.sh
 ```
 **3.** You can now manage the plugin from your DirectAdmin admin account
+**4.** Optional for remote backups: Configure the remote server with ssh keys and remote server settings in de plugin settings
 
 ## Changelog
+**v1.3.2** - Mar, 2018
+- Added PHP7/7.1 version. IonCube loader 10.2 minimum is required.
+- Updated Readme and installation info
+
 **v1.3.1** - May 11, 2016
 - Fixed crontab command for automated backups
 
