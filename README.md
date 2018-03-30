@@ -6,7 +6,7 @@ Welcome to this repository of an unofficial DirectAdmin plugin called: **DA (Dir
 Access and use the plugin through a low-cost monthly or annual subscription. Your subscription includes a license for one server identified by your server ip address and a provided token. Want to see and test before buying? No problem! You can test the plugin with a 7-day trial. [Register for a free 7-day trial here](http://www.directadminbackup.com)
 
 ## Download stable version
-[Download the latest stable version here](http://toadsoftware.nl/apps/toad-dabackup/versions/latest.zip)
+[Download the latest stable version here](http://toadsoftware.nl/apps/toad-dabackup/versions/1.3.2/TOAD-DABackup-v1.3.2.zip)
 
 ## Requirements
 - DirectAdmin **1.4 or higher**
