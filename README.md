@@ -10,7 +10,7 @@ Access and use the plugin through a low-cost monthly or annual subscription. You
 
 ## Requirements
 - DirectAdmin **1.4 or higher**
-- PHP **5.3 or higher**
+- PHP **7.1 or higher**
 - "allow_url_fopen" enabled in PHP
 - Active license or trial with license token [Register for a free 7-day trial here](http://www.directadminbackup.com)
 - Ioncube (Version **10.2.0** or greater of the ionCube Loader is required)
@@ -31,7 +31,7 @@ sh ./install.sh
 
 ## Changelog
 **v1.3.2** - Mar, 2018
-- Added PHP7/7.1 version. IonCube loader 10.2 minimum is required.
+- Added PHP7.1 version. IonCube loader 10.2 minimum is required.
 - Updated Readme and installation info
 
 **v1.3.1** - May 11, 2016
