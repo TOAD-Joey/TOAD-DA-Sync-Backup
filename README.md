@@ -15,6 +15,7 @@ Access and use the plugin through a low-cost monthly or annual subscription. You
 - Active license or trial with license token [Register for a free 7-day trial here](http://www.directadminbackup.com)
 - Ioncube (Version **10.2.0** or greater of the ionCube Loader is required)
 - Check if rsync is installed; update to **3.1.0 at least**
+- Based on your users database/email usage, you need some extra disk space to temporary store the local backups.
  
 ## Installing
 **1.** Copy the contents of the downloaded plugin to the DirectAdmin plugin directory:
